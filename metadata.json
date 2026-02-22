@@ -1,0 +1,5 @@
+{
+  "name": "DDSH — Driver Drowsiness Shield",
+  "description": "AI-powered real-time driver safety platform using computer vision and posture intelligence.",
+  "requestFramePermissions": []
+}
