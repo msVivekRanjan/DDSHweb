@@ -18,7 +18,7 @@ const features = [
     icon: Baby,
     title: 'Child Safety Mode',
     desc: 'PoseGuard™ detects irregular child movements in rear seats and activates child lock protocols.',
-    isRoadmap: true,
+    isRoadmap: false,
   },
   {
     icon: FileText,
