@@ -2,7 +2,7 @@ import { motion } from 'motion/react';
 import { Play, ArrowRight } from 'lucide-react';
 
 const stats = [
-  { label: 'Detection Accuracy', value: '90%' },
+  { label: 'Detection Accuracy', value: '87%' },
   { label: 'Alert Response', value: '< 2 sec' },
   { label: 'Real-Time Processing', value: '30 FPS' },
   { label: 'Body Keypoints Tracked', value: '133' },
