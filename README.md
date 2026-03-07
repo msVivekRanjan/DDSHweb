@@ -1,4 +1,4 @@
-# DDSH — Driver Drowsiness Shield
+# DDSH — Dynamic Driver Safety Hub
 ## Official Product Showcase Website
 
 [![Next.js](https://img.shields.io/badge/Next.js-14.0-black)](https://nextjs.org/)
@@ -14,7 +14,7 @@
 
 ## 📋 Overview
 
-This repository contains the official **product showcase website** for DDSH (Driver Drowsiness Shield) — a real-time AI-powered driver safety platform that combines eye-state classification and whole-body pose estimation to prevent drowsiness-related accidents.
+This repository contains the official **product showcase website** for DDSH (Dynamic Driver Safety Hub) — a real-time AI-powered driver safety platform that combines eye-state classification and whole-body pose estimation to prevent drowsiness-related accidents.
 
 The website is designed as a **B2B/B2C SaaS landing page**, positioning DDSH not just as a college project but as a scalable, fundable safety intelligence product ready for enterprise deployment.
 
@@ -289,7 +289,7 @@ This website documents an implementation grounded in two peer-reviewed publicati
 
 **Paper 1 — DDSH Core System:**
 ```
-Bhanja, S., et al. (2025). Driver Drowsiness Shield (DDSH): A Real-Time 
+Bhanja, S., et al. (2025). Dynamic Driver Safety Hub (DDSH): A Real-Time 
 Driver Drowsiness Detection System. ROBOMECH Journal.
 DOI: 10.1186/s40648-025-00307-4
 ```

@@ -17,7 +17,7 @@ export default function Footer() {
               <div className="w-2 h-2 rounded-full bg-primary-custom pulse-red" />
             </div>
             <p className="text-text-muted max-w-sm mb-8 leading-relaxed">
-              Driver Drowsiness Shield — The AI safety layer that keeps drivers alive through real-time eye and posture intelligence.
+              Dynamic Driver Safety Hub — The AI safety layer that keeps drivers alive through real-time eye and posture intelligence.
             </p>
             <div className="flex gap-4">
               <a href="#" className="text-text-muted hover:text-primary-custom transition-colors"><Github size={20} /></a>

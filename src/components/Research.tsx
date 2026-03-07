@@ -3,7 +3,7 @@ import { ExternalLink, Quote } from 'lucide-react';
 
 const papers = [
   {
-    title: 'DDSH: Driver Drowsiness Shield Platform',
+    title: 'DDSH: Dynamic Driver Safety Hub Platform',
     authors: 'Bhanja et al.',
     journal: 'ROBOMECH 2025',
     metric: '87% Accuracy',

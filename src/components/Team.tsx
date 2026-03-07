@@ -1,5 +1,5 @@
 import { motion } from 'motion/react';
-import { Github, Linkedin } from 'lucide-react';
+import { Github, Linkedin,Link } from 'lucide-react';
 
 export default function Team() {
   return (
@@ -50,6 +50,9 @@ export default function Team() {
             </div>
 
             <div className="flex justify-center gap-4">
+              <a href="https://www.vivekrs.in/" className="w-12 h-12 rounded-full bg-surface border border-border-custom flex items-center justify-center text-text-primary hover:bg-primary-custom hover:border-primary-custom transition-all">
+                <Link size={20} />
+              </a>
               <a href="https://github.com/msVivekRanjan" className="w-12 h-12 rounded-full bg-surface border border-border-custom flex items-center justify-center text-text-primary hover:bg-primary-custom hover:border-primary-custom transition-all">
                 <Github size={20} />
               </a>
