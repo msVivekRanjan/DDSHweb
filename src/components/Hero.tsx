@@ -42,7 +42,7 @@ export default function Hero() {
                 Explore Platform <ArrowRight size={18} />
               </a>
               <a
-                href="#demo"
+                href="https://www.youtube.com/watch?v=A0TciUa62ME"
                 className="px-8 py-4 bg-surface border border-border-custom text-text-primary font-bold rounded-full flex items-center gap-2 hover:bg-border-custom transition-all hover:scale-105 active:scale-95"
               >
                 Watch Demo <Play size={18} fill="currentColor" />

@@ -50,7 +50,7 @@ export default function Navbar() {
             </a>
           ))}
           <a
-            href="https://youtu.be/QMNIAmmlO6U"
+            href="https://www.youtube.com/watch?v=A0TciUa62ME"
             className="px-5 py-2.5 bg-primary-custom text-white text-sm font-bold rounded-full hover:bg-primary-custom/90 transition-all hover:scale-105 active:scale-95"
           >
             View Demo
@@ -86,7 +86,7 @@ export default function Navbar() {
               </a>
             ))}
             <a
-              href="https://youtu.be/QMNIAmmlO6U"
+              href="https://www.youtube.com/watch?v=A0TciUa62ME"
               onClick={() => setIsOpen(false)}
               className="w-full py-3 bg-primary-custom text-white text-center font-bold rounded-xl"
             >

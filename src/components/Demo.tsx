@@ -60,7 +60,7 @@ export default function Demo() {
           >
             <div className="absolute inset-0 flex items-center justify-center z-10">
               <a
-                href="https://youtu.be/QMNIAmmlO6U"
+                href="https://www.youtube.com/watch?v=A0TciUa62ME"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-20 h-20 rounded-full bg-primary-custom flex items-center justify-center text-white hover:scale-110 transition-transform cursor-pointer"
@@ -69,7 +69,7 @@ export default function Demo() {
               </a>
             </div>
             <img 
-              src="https://img.youtube.com/vi/QMNIAmmlO6U/maxresdefault.jpg" 
+              src="https://img.youtube.com/vi/A0TciUa62ME/maxresdefault.jpg" 
               alt="Demo Preview" 
               className="w-full h-full object-cover opacity-40 pointer-events-none"
               referrerPolicy="no-referrer"
